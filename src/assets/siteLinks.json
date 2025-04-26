@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://www.tandezhang.com/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "在线文件夹",
+    "link": "https://z.tandezhang.com/#/"
   },
   {
     "icon": "CompactDisc",
@@ -17,12 +17,12 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.tandezhang.com"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "网址导航",
+    "link": "https://a.tandezhang.com/"
   },
   {
     "icon": "Fire",
@@ -31,7 +31,7 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "我的工作站",
+    "link": "https://nas.tandezhang.com:50443/ui/#/login"
   }
 ]
