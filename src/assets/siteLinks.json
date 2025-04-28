@@ -33,5 +33,20 @@
     "icon": "LaptopCode",
     "name": "我的工作站",
     "link": "https://nas.tandezhang.com:50443/ui/#/login"
+  },
+  {
+    "icon": "Book",
+    "name": "图书馆",
+    "link": "https://book.tandezhang.com/"
+  },
+    {
+    "icon": "BoxToolbox20Regular",
+    "name": "在线工具箱",
+    "link": "https://tool.tandezhang.com/"
+  },
+  {
+    "icon": "AddAPhotoFilled",
+    "name": "时光相册",
+    "link": "http://photo.tandezhang.com/"
   }
 ]
