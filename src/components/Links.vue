@@ -92,7 +92,6 @@ const siteIcon = {
   Tools,
   Server,
   Images,
-  LoadBalancerNetwork,
   LaptopCode,
 };
 // 链接跳转
