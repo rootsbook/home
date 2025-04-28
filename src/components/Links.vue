@@ -83,9 +83,19 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
+  Link,
   Blog,
-  Cloud,
+  Server,
+  Images,
+  MdPhotos,
+  BookOutline,
+  InternetExplorer,
+  DocumentOnePage20Regular,
+  Tools,
+  LoadBalancerNetwork,
+  Music,
   CompactDisc,
+  Cloud,
   Compass,
   Book,
   Fire,
