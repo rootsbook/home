@@ -45,7 +45,15 @@ import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import {
   Link,
-  Blog,
+  Blog
+  Images,
+  MdPhotos,
+  BookOutline,
+  InternetExplorer,
+  DocumentOnePage20Regular,
+  Tools,
+  LoadBalancerNetwork,
+  Music,
   CompactDisc,
   Cloud,
   Compass,
