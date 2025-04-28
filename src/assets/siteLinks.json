@@ -10,9 +10,9 @@
     "link": "https://z.tandezhang.com/#/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "ContentDeliveryNetwork",
+    "name": "飞牛NAS",
+    "link": "http://fn.tandezhang.com:5666/login"
   },
   {
     "icon": "Compass",
@@ -20,7 +20,7 @@
     "link": "https://nav.551855.xyz"
   },
   {
-    "icon": "Book",
+    "icon": "WebhookFilled",
     "name": "网址导航",
     "link": "https://a.tandezhang.com/"
   },
