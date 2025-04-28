@@ -10,7 +10,7 @@
     "link": "https://z.tandezhang.com/#/"
   },
   {
-    "icon": "IosImage",
+    "icon": "Server",
     "name": "飞牛NAS",
     "link": "http://fn.tandezhang.com:5666/login"
   },
@@ -30,17 +30,17 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "LoadBalancerNetwork",
     "name": "我的工作站",
     "link": "https://nas.tandezhang.com:50443/ui/#/login"
   },
   {
-    "icon": "AB",
+    "icon": "BookOutline",
     "name": "图书馆",
     "link": "https://book.tandezhang.com/"
   },
     {
-    "icon": "Toolbox",
+    "icon": "Tools",
     "name": "在线工具箱",
     "link": "https://tool.tandezhang.com/"
   },
