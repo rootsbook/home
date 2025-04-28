@@ -10,7 +10,7 @@
     "link": "https://z.tandezhang.com/#/"
   },
   {
-    "icon": "ContentDeliveryNetwork",
+    "icon": "Ethernet",
     "name": "飞牛NAS",
     "link": "http://fn.tandezhang.com:5666/login"
   },
@@ -40,12 +40,12 @@
     "link": "https://book.tandezhang.com/"
   },
     {
-    "icon": "BoxToolbox20Regular",
+    "icon": "Toolbox",
     "name": "在线工具箱",
     "link": "https://tool.tandezhang.com/"
   },
   {
-    "icon": "AddAPhotoFilled",
+    "icon": "Images",
     "name": "时光相册",
     "link": "http://photo.tandezhang.com/"
   }
