@@ -83,25 +83,18 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
-  Link,
   Blog,
-  Server,
-  Images,
-  MdPhotos,
-  BookOutline,
-  InternetExplorer,
-  DocumentOnePage20Regular,
-  Tools,
-  LoadBalancerNetwork,
-  Music,
-  CompactDisc,
   Cloud,
+  CompactDisc,
   Compass,
   Book,
   Fire,
+  Tools,
+  Server,
+  Images,
+  LoadBalancerNetwork,
   LaptopCode,
 };
-
 // 链接跳转
 const jumpLink = (data) => {
   if (data.name === "音乐" && store.musicClick) {
