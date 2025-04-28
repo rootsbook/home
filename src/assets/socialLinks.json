@@ -2,7 +2,7 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/tan_xiansheng"
+    "url": "https://github.com/rootsbook"
 }, {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
@@ -27,5 +27,5 @@
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/laotan_bot"
+    "url": "https://t.me/tan_xiansheng"
 }]
