@@ -48,17 +48,17 @@
     "icon": "Images",
     "name": "时光相册",
     "link": "https://plog.tandezhang.com/"
-  }
+  },
   {
     "icon": "Award",
     "name": "我的飞牛",
     "link": "http://fn.tandezhang.com:5666/login"
-  } 
+  } ,
   {
     "icon": "Music",
     "name": "音乐馆",
     "link": "https://m.tandezhang.com/"
-  } 
+  } ,
   {
     "icon": "FileImport",
     "name": "文件快递柜",
