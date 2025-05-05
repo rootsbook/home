@@ -35,7 +35,7 @@
     "link": "https://nas.tandezhang.com:50443/ui/#/login"
   },
   {
-    "icon": "Book",
+    "icon": "BookOpen",
     "name": "图书馆",
     "link": "https://book.tandezhang.com/"
   },
@@ -49,4 +49,9 @@
     "name": "时光相册",
     "link": "https://plog.tandezhang.com/"
   }
+  {
+    "icon": "Award",
+    "name": "我的飞牛",
+    "link": "http://fn.tandezhang.com:5666/login"
+  } 
 ]
