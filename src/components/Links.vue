@@ -46,7 +46,11 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
+  Award,
   Server,
+  Biohazard,
+  Dna,
+  YinYang,
   Images,
   MdPhotos,
   BookOutline,
@@ -85,6 +89,10 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Cloud,
+  Award,
+  Biohazard,
+  Dna,
+  YinYang,
   CompactDisc,
   Compass,
   Book,
