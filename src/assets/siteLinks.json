@@ -4,12 +4,11 @@
     "name": "博客",
     "link": "https://blog.tandezhang.com/"
   },
-      {
-    "icon": "Tools",
-    "name": "在线工具箱",
-    "link": "https://tool.tandezhang.com/"
+   {
+    "icon": "BookOpen",
+    "name": "图书馆",
+    "link": "https://book.tandezhang.com/"
   },
- 
   {
     "icon": "Award",
     "name": "飞牛NAS",
@@ -35,10 +34,10 @@
     "name": "我的工作站",
     "link": "https://nas.tandezhang.com:50443/ui/#/login"
   },
-  {
-    "icon": "BookOpen",
-    "name": "图书馆",
-    "link": "https://book.tandezhang.com/"
+    {
+    "icon": "Tools",
+    "name": "在线工具箱",
+    "link": "https://tool.tandezhang.com/"
   },
  {
     "icon": "Cloud",
