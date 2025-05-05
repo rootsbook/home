@@ -93,6 +93,7 @@ const siteIcon = {
   CompactDisc,
   Compass,
   Book,
+  Music,
   Fire,
   Tools,
   Server,
