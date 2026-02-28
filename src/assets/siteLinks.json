@@ -12,7 +12,7 @@
   {
     "icon": "Award",
     "name": "飞牛NAS",
-    "link": "http://fn.tandezhang.com:5666/login"
+    "link": "http://fn.tandezhang.com"
   },
   {
     "icon": "Compass",
@@ -32,7 +32,7 @@
   {
     "icon": "Server",
     "name": "我的工作站",
-    "link": "https://nas.551855.xyz:50443/ui/#/login"
+    "link": "https://nas.551855.xyz"
   },
     {
     "icon": "Tools",
